@@ -1,2 +1,2 @@
 django
-casbin
+pycasbin>=2.0.0
